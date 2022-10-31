@@ -1,0 +1,14 @@
+emp_id,emp_name,department,salary
+101,Mohan,Admin,4000
+102,Rajkumar,HR,3000
+103,Akbar,IT'4000
+104,Dorvin,Finance,6500
+105,Rohit,HR,3000
+106,Rajesh,Finance,5000
+107,Preet,HR,7000
+108,Maryam,Admin,4000
+109,Sanjay,IT,6500
+110,Vasudha,IT,7000
+111,Melinda,IT,8000
+112,Komal,IT,10000
+113,Gautham,Admin,2000
